@@ -24,3 +24,6 @@ echo 3;
 echo 3;
 echo 3;
 echo 3;
+
+echo 'test';
+echo 'test2';
