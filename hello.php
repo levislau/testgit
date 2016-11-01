@@ -27,3 +27,5 @@ echo 3;
 
 echo 'test';
 echo 'test2';
+
+echo 'upload';
